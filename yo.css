@@ -1,0 +1,25 @@
+/* class selector*/
+.spesial {
+    color:purple;
+    font-family:arial, verdana, sans-serif;
+    font-size:30px;
+  }
+  
+  /*selector*/
+  #unik {
+    color:blue;
+  }
+  div{
+    widht:300px;
+    border:15px solid green;
+    margin: 20px 30px 50px 40px;
+    padding:10px;
+    
+  }
+  
+  {
+    widht:200px;
+    border:15px solid green;
+    margin: 20px 30px 50px 40px;
+    padding:10px;
+  }
